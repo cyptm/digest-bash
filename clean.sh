@@ -1,0 +1,5 @@
+#!/bin/bash
+
+source constants.sh
+
+rm $PUBLIC_KEY $PRIVATE_KEY $MESSAGE $DIGEST $SIGNATURE $BASE64_SIGNATURE
